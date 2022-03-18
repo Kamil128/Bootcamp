@@ -1,1 +1,4 @@
-# Repozytorium z plikiem z disiejszego spotkanie plus coś ekstra :)
+# Repozytorium:
+
+## 1. Pliki z warsztato o Python
+## 2. Prezentacja
